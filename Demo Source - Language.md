@@ -32,7 +32,7 @@ window.onload = function () {
 ``` javascript
 let firstName: string = 'Joe';
 firstName = 5;
-firstName = 'Oscar';
+firstName = 'Joseph';
 const eyeColor: string = 'Brown';
 eyeColor = 'purple'
 
@@ -154,11 +154,11 @@ console.log(person.FullName());
 
 ## Extending Classes
 
-['Demo-Source-Extending-Classes]('Extending Classes')
+[Extending Classes](Demo-Source-Extending-Classes.md)
 
 ## Interfaces
 
-['Demo-Source-Interfaces]('Interfaces')
+[Interfaces](Demo-Source-Interfaces.md)
 
 ## Generics
 
